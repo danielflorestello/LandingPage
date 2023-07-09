@@ -53,7 +53,7 @@
             <div class="container">
                 <div class="row justify-content-start">
                     <div class="col-4">
-                        <h1>SYSTEMS SOLUTIONS</h1>
+                        <h1>TECHNOLOGY-BYTECRAFT</h1>
                     </div>
 
                     <div class="col-4">
